@@ -5,15 +5,15 @@
 
 <h3>Conceitos aprendidos na pratica e teoricos:</h3>
 
-### **O que é Datacenter?**
+**O que é Datacenter?**
 
 Datacenter é um local físico que as empresas utilizam para hospedar suas aplicações e dados críticos de forma segura. Podem estar montados em uma sala, em racks ou até mesmo em edifícios próprios. Como componentes chaves de um datacenter estão os roteadores, switches, firewalls, storage, servidores, entre outros.
 
-### **O que é Computação na Nuvem?**
+**O que é Computação na Nuvem?**
 
 A Computação na nuvem é a entrega de recursos de TI sob demanda por meio da Internet com definição de preço de pagamento conforme o uso. Em vez de comprar, ter e manter datacenters e servidores físicos, você pode acessar serviços de tecnologia, como capacidade computacional, armazenamento e bancos de dados, conforme a necessidade, usando provedores de Cloud como a Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) e Oracle Cloud Infrastructure (OCI).
 
-### **O que é MultiCloud?**
+**O que é MultiCloud?**
 
 MultiCloud é a estratégia de utilização dos melhores serviços de dois ou mais provedores de Computação em Nuvem.
 
